@@ -1,7 +1,7 @@
 {
   "name": "@kasperski95/graphirino",
   "version": "0.1.0",
-  "description": "",
+  "description": "Type-safe graph data structures",
   "exports": {
     ".": "./lib"
   },
@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@swc/core": "^1.3.99",
     "@types/jest": "^29.5.10",
