@@ -1,6 +1,6 @@
-import { AdjacencyList } from './AdjacencyList';
-import { ConnectedGraph } from './ConnectedGraph';
-import { findRootFromNode, Tree } from './Tree';
+import { AdjacencyList } from '../src/AdjacencyList';
+import { ConnectedGraph } from '../src/ConnectedGraph';
+import { findRootFromNode, Tree } from '../src/Tree';
 
 it('should find root node', () => {
   const connectedGraph = ConnectedGraph.connectedGraphFromAdjacencyList(

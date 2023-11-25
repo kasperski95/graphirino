@@ -1,5 +1,5 @@
-import { AdjacencyList } from './AdjacencyList';
-import { Node } from './Graph';
+import { AdjacencyList } from '../src/AdjacencyList';
+import { Node } from '../src/Graph';
 
 it('should return node and edge mappings', () => {
   const adjacencyList = new AdjacencyList<

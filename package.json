@@ -2,11 +2,11 @@
   "name": "graphirino",
   "version": "1.0.0",
   "description": "",
-  "entry": [
-    "dist/index.js"
-  ],
+  "main": "lib/index.cjs",
+  "module": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
-    "build": "tsup src --dts src/index.ts",
+    "build": "tsup",
     "test": "jest"
   },
   "keywords": [],

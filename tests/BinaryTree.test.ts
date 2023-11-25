@@ -1,5 +1,5 @@
-import { AdjacencyList } from './AdjacencyList';
-import { BinaryTree } from './BinaryTree';
+import { AdjacencyList } from '../src/AdjacencyList';
+import { BinaryTree } from '../src/BinaryTree';
 
 it('should traverse binary tree in-order', () => {
   const binaryTree = BinaryTree.binaryTreeFromAdjacencyList(

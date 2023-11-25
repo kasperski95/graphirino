@@ -1,5 +1,5 @@
-import { AdjacencyList } from './AdjacencyList';
-import { Graph } from './Graph';
+import { AdjacencyList } from '../src/AdjacencyList';
+import { Graph } from '../src/Graph';
 
 function createSimpleTreeAdjacencyList() {
   return new AdjacencyList()

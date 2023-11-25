@@ -1,6 +1,6 @@
-import { ConnectedGraph } from './ConnectedGraph';
-import { Graph } from './Graph';
-import { AdjacencyList } from './AdjacencyList';
+import { ConnectedGraph } from '../src/ConnectedGraph';
+import { Graph } from '../src/Graph';
+import { AdjacencyList } from '../src/AdjacencyList';
 
 it('should create multiple connected graphs from graph', () => {
   const graph = Graph.graphFromAdjacencyList(
