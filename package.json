@@ -1,5 +1,5 @@
 {
-  "name": "@kasperski95/graphirino",
+  "name": "@kasperski/graphirino",
   "version": "0.1.0",
   "description": "Type-safe graph data structures",
   "exports": {
