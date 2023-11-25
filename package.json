@@ -1,7 +1,8 @@
 {
   "name": "@kasperski/graphirino",
   "version": "0.1.0",
-  "description": "Type-safe graph data structures",
+  "homepage": "https://github.com/kasperski95/graphirino",
+  "description": "Type-safe, extensible, graph data structures",
   "exports": {
     ".": "./lib"
   },
