@@ -1,0 +1,4 @@
+.DS_Store
+tests/
+jest.config.js
+*.tgz
