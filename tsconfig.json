@@ -10,7 +10,6 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "outDir": "./out"
   },
   "include": [
     "**/*.ts",
